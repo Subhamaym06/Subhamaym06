@@ -13,7 +13,7 @@
 <h2>⚡️ Where to find me</h2>
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/subhamaym06" style="display: inline-block;"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height=50px width=50px alt="linkedin" /></a>
-<a target="_blank" href="https://twitter.com/Subhamaym06" style="display: inline-block;"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" height=50px width=50px alt="twitter" /></a>
+<a target="_blank" href="https://twitter.com/Subhamaym06" style="display: inline-block;"><img src="https://cdn-icons-png.flaticon.com/128/14417/14417709.png" height=50px width=50px alt="twitter" /></a>
 <a target="_blank" href="https://www.facebook.com/subhamaym06" style="display: inline-block;"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" height=50px width=50px alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/subhamaym06" style="display: inline-block;"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" height=50px width=50px alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Subhamaym06&show_icons=true&locale=en" alt="Subhamaym06" /></p>
