@@ -1,20 +1,36 @@
-<h1>Hi,I'm Subhamay🙋🏻‍♂️</h1>
-<p>A passionate coder from India.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://en.wikipedia.org/wiki/C_(programming_language)" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://en.wikipedia.org/wiki/JavaScript" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://getbootstrap.com/" style="display: inline-block;"><img src="https://files.svgcdn.io/devicon/bootstrap-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://en.wikipedia.org/wiki/CSS" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://en.wikipedia.org/wiki/HTML" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.mongodb.com/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://www.figma.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://tailwindcss.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p>
-<a target="_blank" href="https://www.linkedin.com/in/subhamaym06" style="display: inline-block;"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" height=50px width=50px alt="linkedin" /></a>
-<a target="_blank" href="https://twitter.com/Subhamaym06" style="display: inline-block;"><img src="https://cdn-icons-png.flaticon.com/128/14417/14417709.png" height=50px width=50px alt="twitter" /></a>
-<a target="_blank" href="https://www.facebook.com/subhamaym06" style="display: inline-block;"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" height=50px width=50px alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/subhamaym06" style="display: inline-block;"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" height=50px width=50px alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Subhamaym06&show_icons=true&locale=en" alt="Subhamaym06" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhamaym06&" alt="Subhamaym06" /></p>
+# 💫 About Me:
+### Hi, I'm Subhamay🙋🏻‍♂️
+#### A passionate coder from India.<br>I’m Currently pursuing a B.Sc. (Honours) degree in Computer Science from Calcutta University. I am passionate about building things with code, enjoy solving problems and learning new technologies every day.
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subhamaym06) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhamaym06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhamaym06) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/subhamaym06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhamaym06@gmail.com) 
+
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Subhamaym06&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Subhamaym06&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhamaym06&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Subhamaym06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Subhamaym06&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
