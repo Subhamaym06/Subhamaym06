@@ -51,6 +51,12 @@
 
 <div align="center">
   
+  ![snake gif](https://github.com/Subhamaym06/Subhamaym06/blob/output/github-snake-dark.svg)
+  
+</div>
+
+<div align="center">
+  
 [![](https://visitcount.itsvg.in/api?id=subhamaym06&icon=10&color=6)](https://visitcount.itsvg.in)
 
 </div>
