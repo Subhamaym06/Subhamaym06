@@ -1,6 +1,6 @@
 # 💫 About Me:
   
-### Hi, I'm Subhamay🙋🏻‍♂️
+## Hi, I'm Subhamay🙋🏻‍♂️
   
 #### A passionate coder from India.<br><br>I’m Currently pursuing a B.Sc. (Honours) degree in Computer Science from Calcutta University. I am passionate about building things with code, enjoy solving problems and learning new technologies every day.
 
