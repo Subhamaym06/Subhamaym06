@@ -50,15 +50,15 @@
 ## 🎓 Education
 **Bachelor of Science in Computer Science**  
 *University of Calcutta*  
-(ongoing)
+***(ongoing)***
 
 </div>
 <div align="center">
 
 ## 🗣️ Languages
-Bengali — Native  
-Hindi — Advanced  
-English — Proficient  
+**Bengali** - *Native*  
+**Hindi** - *Advanced*  
+**English** - *Proficient*  
 
 </div>
 <div align="center">
