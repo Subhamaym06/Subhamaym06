@@ -39,12 +39,28 @@
 <div align="center">
 
 ## 📊 GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhamaym06&theme=transparent)
 ![](https://github-readme-stats.vercel.app/api?username=Subhamaym06&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Subhamaym06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhamaym06&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
+<div align="center">
 
+## 🎓 Education
+**Bachelor of Science in Computer Science**  
+*University of Calcutta*  
+(ongoing)
+
+</div>
+<div align="center">
+
+## 🗣️ Languages
+Bengali — Native  
+Hindi — Advanced  
+English — Proficient  
+
+</div>
 <div align="center">
 
 ## 🔝 Top Contributed Repo
@@ -61,6 +77,11 @@
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=subhamaym06&icon=10&color=6)](https://visitcount.itsvg.in)
+
+</div>
+<div align="center">
+  
+⭐ *If you like my projects, feel free to star them — it keeps me motivated!*
 
 </div>
 
